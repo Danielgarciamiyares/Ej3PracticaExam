@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ej3PracticaExam</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">\n\n</string>
+    <string name="prompt_password">\n</string>
+    <string name="action_sign_in_short" />
+    <string name="mail" />
+    <string name="fragment_citas_title">Bienvenido, %s</string>
+</resources>
